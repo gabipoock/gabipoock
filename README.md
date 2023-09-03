@@ -2,8 +2,9 @@
 
 - 🔭 Fazendo curso técnico de programação
 - ⚡ Estudante do Ensino Médio Senac Distrito Criativo
+- 😍 Sou apaixonada por aprender coisas novas
 - 📫 Contato: gabipoockcontato@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div> 
   <a href="https://instagram.com/poock_gabih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
