@@ -1,7 +1,7 @@
 ### Oioii! Eu sou a Gabriela Poock
 
-- 🔭 Fazendo curso técnico de programação
-- ⚡ Estudante do Ensino Médio Senac Distrito Criativo
+- 💻 Fazendo curso técnico de programação
+- 🚀 Estudante do Ensino Médio Senac Distrito Criativo
 - 😍 Sou apaixonada por aprender coisas novas
 - 📫 Contato: gabipoockcontato@gmail.com
 - 😄 Pronomes: ela/dela
