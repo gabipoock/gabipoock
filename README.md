@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/gabriela-poock-b837592b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> <br>
 
-![Gabi Poock GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipoock&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact&theme=radical)
 
 ## Tecnologias que já domino ou estou aprendendo:
 
@@ -30,4 +30,4 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div> <br>
 
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipoock&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Gabi Poock GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipoock&show_icons=true&theme=radical)
