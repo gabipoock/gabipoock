@@ -1,9 +1,9 @@
 ### Oioii! Eu sou a Gabriela Poock :)
 
-- 💻 Cursando técnico de programação
-- 🚀 Estudante do Ensino Médio Senac Distrito Criativo
-- 💚  Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);<br>
-- ☕ Trilha de Programação Java
+- 💻 Cursando técnico de programação;
+- 🚀 Estudante do Ensino Médio Senac Distrito Criativo;
+- 💚  Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
+- ☕ Trilha de Programação Java;
 - 📫 Contato: gabipoockcontato@gmail.com
 
 <div> 
