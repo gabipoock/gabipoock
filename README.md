@@ -2,9 +2,9 @@
 
 - 💻 Cursando técnico de programação
 - 🚀 Estudante do Ensino Médio Senac Distrito Criativo
-- 😍 Sou apaixonada por aprender coisas novas
+- 💚  Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) do [Instituto Caldeira](https://institutocaldeira.org.br/);<br>
+- ☕ Trilha de Programação Java
 - 📫 Contato: gabipoockcontato@gmail.com
-- insta: poock_gabih
 
 <div> 
   <a href="https://www.instagram.com/poock_gabih?igsh=MTZvN2F2dmZjYm9i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
