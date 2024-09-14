@@ -2,6 +2,7 @@
 
 - 💻 Cursando técnico de programação;
 - 🚀 Estudante do Ensino Médio Senac Distrito Criativo;
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21uNzg4b29pNHloNm95eXl3NDJuNWt6Nm5zcmk2dmY3MndleWtvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqiAi227dap1F6fJud/giphy.gif">
 - 💚  Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - ☕ Trilha de Programação Java;
 - 📫 Contato: gabipoockcontato@gmail.com
