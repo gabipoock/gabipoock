@@ -28,6 +28,6 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-<br>
-[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipoock)](https://github.com/anuraghazra/github-readme-stats)
+</div> <br>
+
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipoock&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
