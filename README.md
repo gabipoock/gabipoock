@@ -26,6 +26,8 @@
 <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img align="center" alt="Blender" src="https://img.shields.io/badge/Blender-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img align="center" alt="Blender" src="https://img.shields.io/badge/Office-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div> <br>
 
 ![Gabi Poock GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipoock&show_icons=true&theme=radical)
