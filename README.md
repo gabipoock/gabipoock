@@ -1,13 +1,18 @@
-### Oioii! Eu sou a Gabriela Poock :)
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Hello,+I+am+Gabi+Poock+👩🏼‍💻👋;I'+m+a+Full-Stack+developer+💻☕;Welcome+to+my+profile!+💗+" alt="Typing SVG">
+  </a>
+</div>
 
-- 💻 Cursando técnico de programação;
-- 🚀 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84);
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+
+- 💻 Cursando técnico de programação;   <img align="right" height="200px" alt="gabipoock" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21uNzg4b29pNHloNm95eXl3NDJuNWt6Nm5zcmk2dmY3MndleWtvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqiAi227dap1F6fJud/giphy.gif">
+- 🚀 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84); 
 - 💚  Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - ☕ Trilha de Programação Java;
 - 📫 Contato: gabipoockcontato@gmail.com
 
 <div> 
-  <img align="right" height="200px" alt="gabipoock" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21uNzg4b29pNHloNm95eXl3NDJuNWt6Nm5zcmk2dmY3MndleWtvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqiAi227dap1F6fJud/giphy.gif">
   <a href="https://www.instagram.com/poock_gabih?igsh=MTZvN2F2dmZjYm9i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabipoockcontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-poock-b837592b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
