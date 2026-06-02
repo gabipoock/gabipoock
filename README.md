@@ -6,10 +6,10 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
 
-- 💻 Cursando técnico de programação;   <img align="right" height="200px" alt="gabipoock" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21uNzg4b29pNHloNm95eXl3NDJuNWt6Nm5zcmk2dmY3MndleWtvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqiAi227dap1F6fJud/giphy.gif">
-- 🚀 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84); 
-- 💚 Aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
+- 💻 Técnica de programação;   <img align="right" height="200px" alt="gabipoock" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21uNzg4b29pNHloNm95eXl3NDJuNWt6Nm5zcmk2dmY3MndleWtvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqiAi227dap1F6fJud/giphy.gif">
+- 💚 Ex-aluna do [Geração Caldeira](https://www.geracaocaldeira.org/) | [Instituto Caldeira](https://institutocaldeira.org.br/);
 - 💻 Experiência profissional na área de QA;
+- 💻 Assistente de Engenharia de Software;
 - ☕ Trilha de Programação Java;
 - 📫 Contato: gabipoockcontato@gmail.com
 
@@ -33,6 +33,3 @@
 <img align="center" alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div> <br>
-
-![Gabi Poock GitHub stats](https://github-readme-stats.vercel.app/api?username=gabipoock&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabipoock\&layout=compact&theme=radical)
